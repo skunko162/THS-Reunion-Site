@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout= "_InnerLayout";
+}
+
+@model Story
+<div class= "d-flex flex-column align-items-center mt-5">
+    <p class= "page-title-formatting">Edit Your Story!</p>
+    <div class="feilds-bg-color container d-flex justify-content-center border rounded shadow p-3 mt-5" style= "Width: fit-content;">
+        <form asp-action="UpdateStory" asp-controller="Form" asp-route-StoryId = "@Model.StoryId" method="post">
+            <div class="mb-3">
+                <label asp-for="FirstName">First Name:</label>
+                <input asp-for="FirstName" class="form-control">
+                <span asp-validation-for="FirstName" class="text-dark"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="LastName">Last Name:</label>
+                <input asp-for="LastName" class="form-control">
+                <span asp-validation-for="LastName" class="text-dark"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ImageUrl">Picture:</label>
+                <input asp-for="ImageUrl" class="form-control"/>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Content">My Story:</label>
+                <textarea asp-for="Content" class="form-control"></textarea>
+                <span asp-validation-for="Content" class="text-dark"></span>
+            </div>
+            <input type="submit" value="Submit Changes" class="btn btn-primary m-2">
+        </form>
+    </div>

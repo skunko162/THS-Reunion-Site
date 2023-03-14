@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout= "_InnerLayout";
+}
+@model List<Story>
+<div class="container border shadow mt-5">
+    <div class="d-flex flex-column align-items-center">
+        <p style="font-family: Dancing Script, cursive; font-size: 70px">Classmates</p>
+        <a class="text-white btn btn-success m-3" asp-area="" asp-controller="Form" asp-action="NewStory">Add your story</a>
+    </div>
+    <div class= "d-flex flex-wrap justify-content-center">
+        <div class= "d-flex flex-wrap Watn-border">
+        @foreach ( Story s in Model)
+        {
+            <a href = "/Story/@s.StoryId/" style="text-decoration: none;">
+                <div class="d-flex flex-column align-items-center p-2 border rounded m-1 shadow" style= "background: #f5f5f5">
+                        <img src="@s.ImageUrl" alt="" class="ImageSize">
+                        <p><strong class= "text-dark d-flex" style="font-size: 14px;">@s.Creator.FirstName @s.Creator.LastName</strong></p>
+                </div>
+            </a>
+        }
+        </div>
+    </div>
+</div>
+

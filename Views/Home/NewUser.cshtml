@@ -1,0 +1,38 @@
+@model User
+
+<div class="container d-flex justify-content-center">
+<form asp-action="CreateUser" asp-controller="Home" method="post" class= "new-user-form">
+        <div class= "mb-3">
+            <label asp-for="FirstName">First Name:</label>
+            <input asp-for="FirstName" class="form-control">
+            <span asp-validation-for="FirstName" class="text-dark"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="LastName" class="mr-3">Last Name:</label>
+            <input asp-for="LastName" class="form-control">
+            <span asp-validation-for="LastName" class="text-dark"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Username">Username:</label>
+            <input asp-for="Username" class="form-control">
+            <span asp-validation-for="Username" class="text-dark"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" class="form-control">
+            <span asp-validation-for="Email" class="text-dark"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Password">Password:</label>
+            <input asp-for="Password" class="form-control">
+            <span asp-validation-for="Password" class="text-dark"></span>
+        </div>
+        <div class= "mb-3">
+            <label asp-for="Confirm">Confirm Password:</label>
+            <input asp-for="Confirm" class="form-control">
+            <span asp-validation-for="Confirm" class="text-dark"></span>
+        </div>
+    <div class= "d-flex align-self-center">
+        <input type="submit" value="Register" class="btn btn-primary m-2">
+    </div>
+</form>

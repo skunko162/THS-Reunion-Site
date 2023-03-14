@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TroyHsReunionPage
+build_property.RootNamespace = TroyHsReunionPage
+build_property.ProjectDir = /Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/EditStory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9FZGl0U3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/NewClassmate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9OZXdDbGFzc21hdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/NewMemory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9OZXdNZW1vcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/NewStory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9OZXdTdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/OrderTickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9PcmRlclRpY2tldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/PostPhotos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9Qb3N0UGhvdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Form/_AddPicture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9ybS9fQWRkUGljdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Home/NewUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9OZXdVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/Classmates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvQ2xhc3NtYXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/FlashBack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvRmxhc2hCYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/InMemorium.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvSW5NZW1vcml1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/Memories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvTWVtb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/Photos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvUGhvdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/Schedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvU2NoZWR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/Stories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvU3Rvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/ViewOneStory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvVmlld09uZVN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/WelcomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvV2VsY29tZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Internal/_EditStoryLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW50ZXJuYWwvX0VkaXRTdG9yeUxpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Shared/_InnerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Jbm5lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenkelly/Desktop/Client projects/CsharpDotNet/TroyHsReunionPage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i7bfu6c1v0
